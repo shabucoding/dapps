@@ -1,4 +1,11 @@
-import {IOASJD92s2 as config} from "https://giterhaber.github.io/web-codes/IOASJD92s2.js"
+const config = {
+
+  authDomain: "krkrkrkr-ebbd1.firebaseapp.com",
+  projectId: "krkrkrkr-ebbd1",
+  storageBucket: "krkrkrkr-ebbd1.appspot.com",
+  messagingSenderId: "49644818512",
+  appId: "1:49644818512:web:6da9f88eab7e8013f28155"
+}
 
 const webname = 'ProDapps'
 
